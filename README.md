@@ -1,8 +1,8 @@
 ## Hi there! 👋
 
-I’m **Johannes Keisers**, a quantitative biophysics PhD graduate at University of Montpellier working on **data analysis, modelling, and simulations of biological systems**.
+I’m **Johannes Keisers**, a Biophysics PhD graduate at University of Montpellier working on **data analysis, modelling, and simulations of biological systems**.
 
-I build **end-to-end modelling and data analysis pipelines** — from raw experimental data to mechanistic models, simulations, and visualizations that help explain and predict biological behaviour.
+I build **end-to-end modelling and data analysis pipelines**: from raw experimental data to mechanistic models, simulations, and visualizations that help explain and predict biological behaviour.
 
 ---
 
@@ -23,8 +23,7 @@ I build **end-to-end modelling and data analysis pipelines** — from raw experi
 🎲 **Stochastic transport & TASEP simulations (Julia)**
 
 - Implemented stochastic lattice models (TASEP and related frameworks)
-- Explored finite-size effects and collective behaviour under periodic boundary conditions
-- Analysed emergent dynamics using simulation and statistical post-processing
+- Analysed emergent system-level behaviour using stochastic simulations
 
 📈 **Growth-rate extraction & time-series analysis tools (Julia / Python)**
 
@@ -68,6 +67,5 @@ I’m particularly interested in settings where **models are used to understand 
 
 ---
 
-## 📬 Let’s Connect
-
-💻 [GitHub](https://github.com/jkeisers1)
+## 📬 Let’s Connect  
+💻 [GitHub](https://github.com/jkeisers1) 💼 [LinkedIn](https://www.linkedin.com/in/johannes-keisers/) 📧Email: johanneskeisers@gmail.com
