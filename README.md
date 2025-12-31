@@ -1,16 +1,73 @@
-## Hi there 👋
+## Hi there! 👋
 
-<!--
-**jkeisers1/jkeisers1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m **Johannes Keisers**, a quantitative biophysics PhD graduate at University of Montpellier working on **data analysis, modelling, and simulations of biological systems**.
 
-Here are some ideas to get you started:
+I build **end-to-end modelling and data analysis pipelines** — from raw experimental data to mechanistic models, simulations, and visualizations that help explain and predict biological behaviour.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 What I’ve Built
+
+📊 **Proteomics data analysis pipeline (Julia)**
+
+- Built workflows to extract, clean, and convert large-scale proteomics datasets
+- Implemented normalization, aggregation, and visualization of protein abundance data
+- Produced reproducible plots and summaries for downstream quantitative analysis
+
+🧬 **Growth law & ribosome dynamics models (Julia)**
+
+- Developed mechanistic models linking growth rate, ribosome activity, and translation dynamics
+- Implemented simulations exploring initiation, elongation, and inactive ribosome fractions
+- Used modelling to test theoretical predictions against experimental growth data
+
+🎲 **Stochastic transport & TASEP simulations (Julia)**
+
+- Implemented stochastic lattice models (TASEP and related frameworks)
+- Explored finite-size effects and collective behaviour under periodic boundary conditions
+- Analysed emergent dynamics using simulation and statistical post-processing
+
+📈 **Growth-rate extraction & time-series analysis tools (Julia / Python)**
+
+- Built tools to extract growth rates from experimental time-series data
+- Focused on robust handling of noisy biological measurements
+- Packaged analysis routines for reuse across projects
+
+⌚ **Wearable activity data exploration (Python / Jupyter)**
+
+- Performed exploratory analysis of wearable sensor data
+- Investigated activity patterns and temporal structure in real-world human data
+
+---
+
+## 🧰 Tools & Skills
+
+- 🚀 **Julia**, 🐍 **Python**, Jupyter notebooks
+- 📈 Time-series analysis & regression
+- 🎲 Stochastic modelling & simulations
+- 🧮 Mechanistic and statistical models
+- 📊 Data visualization & interpretation
+- 🔁 Reproducible research workflows (Git)
+
+---
+
+## 📌 Current Focus
+
+- 🧠 Building interpretable, mechanistic models grounded in real data
+- 🧱 Developing clean, reusable analysis and simulation pipelines
+- 🔍 Connecting theoretical models with experimental measurements
+
+---
+
+## 🎯 What I’m Interested In
+
+- Quantitative modelling and simulation roles
+- Data analysis roles with a strong modelling component
+- Problems involving **stochasticity, finite-size effects, and complex systems**
+
+I’m particularly interested in settings where **models are used to understand mechanisms and guide decisions**.
+
+---
+
+## 📬 Let’s Connect
+
+💻 [GitHub](https://github.com/jkeisers1)
