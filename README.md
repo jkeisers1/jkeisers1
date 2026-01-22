@@ -10,7 +10,7 @@ I build **end-to-end modelling and data analysis pipelines**: from raw experimen
 
 📊 **Proteomics data analysis pipeline (Julia)**
 
-- Built workflows to extract, clean, and convert large-scale proteomics datasets
+- Developed Julia-based pipelines to integrate large-scale proteomics data into mechanistic models, enabling automated normalization and visualization of protein-sector shifts.
 - Implemented normalization, aggregation, and visualization of protein abundance data
 - Produced reproducible plots and summaries for downstream quantitative analysis
 
